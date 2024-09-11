@@ -3,15 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=onelitefeather&label=Profile%20views&color=0e75b6&style=flat" alt="onelitefeather" /> </p>
 
-- 🔭 I’m currently working on [FAVS documentation](https://github.com/OneLiteFeather/documentation)
-
 - 🌱 I’m currently learning **Java, Kotlin and writing documentation**
 
 - 🤝 I’m looking for help with [our OpenSource projects](https://github.com/orgs/OneLiteFeatherNET/repositories)
 
 - 💬 Ask me about **Building in Minecraft and Build plugins**
 
-- 📫 How to reach me **michellepc@hotmail.de**
+- 📫 How to reach me **Discord: OneLiteFeather or onelitefeather@onelitefeather.net**
 
 - ⚡ Fun fact **I like to draw**
 
