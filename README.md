@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=onelitefeather&label=Profile%20views&color=0e75b6&style=flat" alt="onelitefeather" /> </p>
 
-- 🌱 I’m currently learning **Java, Kotlin and writing documentation**
+- 🌱 I’m currently learning **Java, ABAP, C# and Python**
 
 - 🤝 I’m looking for help with [our OpenSource projects](https://github.com/orgs/OneLiteFeatherNET/repositories)
 
